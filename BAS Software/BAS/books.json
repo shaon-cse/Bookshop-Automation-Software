@@ -1,0 +1,103 @@
+[
+{
+        "title": "Geronimo Stilton #32: Valley of the Giant Skeletons",
+        "author": "Elisabetta Dami",
+        "ISBN" :978045021326,
+        "description": "Tuslaarai! Tuslaarai! That's Mongolian for help! and holey cheese did I need some! I was lost in the Gobi Desert, looking for a hidden treasure. So far, all I had found were sandstorms, camels, and giant dinosaur bones? Rat-munching rattlesnakes - how do I get myself into these situations?",
+        "copies": 4,
+        "price": 6.99,
+        "location": "Floor 2, rack 2",
+        "image": "https://geronimostilton.com/upload/assets/files/WW,116,-1,9711/33254-3.jpg"
+    },
+    {
+        "title": "Geronimo Stilton #33: Geronimo and the Gold Medal Mystery",
+        "author": "Elisabetta Dami",
+        "ISBN" :9780545021333,
+        "description": "I, Geronimo Stilton, am not a sportsmouse. Running? Sweating? Not for me. I prefer relaxing in an armchair with a nice bowl of chocolate cheesy chews. But with the Olympics coming up, sports were all anyone in New Mouse City could talk about. Rat-munching rattlesnakes!",
+        "copies": 2,
+        "price": 6.99,
+        "location": "Floor 2, rack 2",
+        "image": "https://geronimostilton.com/upload/assets/files/WW,116,-1,9712/33256-3.jpg"
+    },
+    {
+        "title": "Geronimo Stilton #34: Geronimo Stilton, Secret Agent",
+        "author": "Elisabetta Dami",
+        "ISBN" : 915444310786,
+        "description": "My sister, Thea, is the mystery-loving rodent, not me! But somehow I found myself going undercover to get to the bottom of a case. Slimy Swiss balls--I hardly knew where to start! Geronimo Stilton, Secret Agent Mouse? Maybe I could get used to that...",
+        "copies":6,
+        "price": 6.99,
+        "location": "Floor 2, rack 2",
+        "image": "https://geronimostilton.com/upload/assets/files/WW,116,-1,9713/33258-0.jpg"
+    },
+    {
+        "title": "Geronimo Stilton #38: A Fabumouse School Adventure",
+        "author": "Elisabetta Dami",
+        "ISBN" :9154443423106,
+        "description": "When my nephew, Benjamin, invited me to Career Day at his school, things did not turn out the way I expected. I caused a volcanic explosion, got tangled in the tunnel slide on the playground, and accidentally let the class's pet gecko out of its cage! Rat munching rattlesnakes-how was I going to get myself out of this mess?",
+        "copies": 7,
+        "price": 6.99,
+        "location": "Floor 2, rack 2",
+        "image": "https://geronimostilton.com/upload/assets/files/WW,116,-1,9717/33266-0.jpg"
+    },
+    {
+        "title": "Geronimo Stilton #40: The Karate Mouse",
+        "author": "Elisabetta Dami",
+        "ISBN" :915444453106,
+        "description": "Geronimo Stilton gets caught up in the World Karate Championships, thanks to the efforts of Bruce Hyena and Piccolo Tao, Bruce's super-sporty cousin. Geronimo only has a week to become real champion material! Will Geronimo manage to overcome his fears in order to win the competition?",
+        "copies": 0,
+        "price": 6.99,
+        "location": "Floor 2, rack 2",
+        "image": "https://geronimostilton.com/upload/assets/files/WW,116,-1,9719/33270-0.jpg"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "ISBN" :1749834520,
+        "description": "The story of a young girl growing up in the South and a lawyer who defends a black man accused of rape.",
+        "copies": 5,
+        "price": 23,
+        "location": "Floor 1, rack 2",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "ISBN" :4729045381,
+        "description": "A tragic love story set against the backdrop of the Roaring Twenties.",
+        "copies": 3,
+        "price": 19,
+        "location": "Floor 1, rack 1",
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71FTb9X6wsL.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "ISBN" :2657394108,
+        "description": "A dystopian novel set in a totalitarian society where the government controls every aspect of citizens' lives.",
+        "copies": 2,
+        "price": 7,
+        "location": "Floor 1, rack 3",
+        "image": "http://www.sup.org/img/covers/large/pid_36169.jpg"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "ISBN" :9154443106,
+        "description": "A romantic comedy of manners set in Georgian England.",
+        "copies": 4,
+        "price": 10,
+        "location": "Floor 1, rack 1",
+        "image": "https://rukminim1.flixcart.com/image/416/416/kqidx8w0/book/m/t/q/pride-prejudice-original-imag4hhytfbvzyza.jpeg?q=70"
+    },
+    
+    {
+        "title": "Geronimo Stilton #46: The Haunted Castle",
+        "author": "Elisabetta Dami",
+        "ISBN" :9154443106,
+        "description": "I was just minding my business at home when I got a telephone call. It was my uncle Samuel S. Stingysnout, inviting the whole Stilton family to creepy, faraway Penny Pincher Castle for a big surprise. Moldy mozzarella-I'm not much of a traveling mouse, and I hate surprises. But Thea, Trap, and Benjamin were going, so I couldn't say no. I could tell this was going to be one super-spooky trip!",
+        "copies": 1,
+        "price": 6.99,
+        "location": "Floor 2, rack 2",
+        "image": "https://geronimostilton.com/upload/assets/files/WW,116,-1,9735/33303-0.jpg"
+    }
+]
